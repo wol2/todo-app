@@ -8,8 +8,12 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
     <div>testtset</div>
+    <App>
+      <h1>asgadkjlgdjlg</h1>
+      <p>asgadkjlgdjlg</p>
+    </App>
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('root'),
 );
 
 // If you want your app to work offline and load faster, you can change
